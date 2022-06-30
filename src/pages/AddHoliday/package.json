@@ -1,0 +1,6 @@
+{
+  "name": "Add Holiday",
+  "version": "0.0.0",
+  "private": true,
+  "main": "AddHoliday.js"
+}
